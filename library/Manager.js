@@ -1,9 +1,11 @@
+//creating constructors
+
 const Manager = require("./Employee");
-//constructors
+
 class Manager extends Employee{
-    //create constructor
+    
     constructor(name, id, email, officeNumber) {
-        //super(name, id, email);
+       
 
         getName() {
             return this.name;

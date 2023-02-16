@@ -1,7 +1,9 @@
+//creating constructors (do we do methods too?)
+
 const Employee = require("./Employee");
-//constructors
+
 class Engineer extends Employee {
-    //create constructor
+   
     constructor(name, id, email, ) {
         this.name = name;
         this.id = id;
