@@ -20,7 +20,7 @@ Utilize command line
   
   
 ## Usage
-
+Video walk through: https://drive.google.com/file/d/1N-I0xYY5e8V-x6og7oD1BoBisUZgdyfK/view
    
   
 ## Credits
